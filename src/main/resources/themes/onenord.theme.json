@@ -1,13 +1,13 @@
 {
-  "name": "OneNord",
+  "name": "OneNord Deep",
   "dark": true,
   "author": "Ryan Mehri",
   "editorScheme": "/themes/onenord.xml",
   "colors": {
     "fg": "#C8D0E0",
     "fg_light": "#E5E9F0",
-    "bg": "#2A303B",
-    "gray": "#7E8491",
+    "bg": "#1D2129",
+    "gray": "#4C566a",
     "light_gray": "#6C7A96",
     "cyan": "#88C0D0",
     "blue": "#81A1C1",
@@ -363,7 +363,7 @@
       "Checkbox.Focus.Wide.Dark": "#5E81AC",
       "Checkbox.Focus.Thin.Default.Dark": "#5E81AC",
       "Checkbox.Focus.Thin.Selected.Dark": "#5E81AC",
-      "Checkbox.Background.Disabled.Dark": "#2A303B",
+      "Checkbox.Background.Disabled.Dark": "#1D2129",
       "Checkbox.Border.Disabled.Dark": "#3B4252",
       "Checkbox.Foreground.Disabled.Dark": "#7E8491"
     }
