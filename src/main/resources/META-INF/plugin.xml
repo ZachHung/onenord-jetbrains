@@ -1,7 +1,7 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
-    <id>com.github.rmehri01.onenord</id>
-    <name>OneNord</name>
+    <id>com.github.rmehri01.onenord_deep</id>
+    <name>OneNord Deep</name>
     <version>@version@</version>
     <vendor email="ryan.mehri1@gmail.com">rmehri01</vendor>
 
